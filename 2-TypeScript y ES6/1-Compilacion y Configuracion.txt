@@ -1,0 +1,14 @@
+Compilar archivos
+
+Una vez: tsc <file>.ts
+
+Constantemente: tsc <file>.ts -w
+
+Crear archivo tsconfig.json: tsc -init
+
+Ejecutar los cambios de todos los archivos: tsc
+
+
+Compilar todos los archivos constantemente: tsc -w
+
+

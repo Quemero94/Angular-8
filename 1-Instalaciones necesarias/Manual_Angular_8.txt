@@ -1,0 +1,6 @@
+Curso Angular 8
+
+Instalaciones: node.js(node -v), npm(npm -v), typescript (tsc --version), angular cli(ng -v),
+	       ionic(ionic -v), chrome, Editor (Atom o ViSualCode)
+
+

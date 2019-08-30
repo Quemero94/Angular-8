@@ -1,0 +1,10 @@
+Declaracion de variable
+
+Normales:
+
+let numero = "9";
+
+
+Constantes(no puede cambiar):
+
+const OPCIONES = "todas";
